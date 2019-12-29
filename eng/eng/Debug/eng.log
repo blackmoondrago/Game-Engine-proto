@@ -1,0 +1,27 @@
+﻿  Camera.cpp
+  CoreEngine.cpp
+  OctSpacialPartisioning.cpp
+  EventListener.cpp
+  MouseEventListener.cpp
+  Main.cpp
+  CollisionDetection.cpp
+  CollisionHandler.cpp
+  Ray.cpp
+  GameObject.cpp
+  LoadObjModel.cpp
+C:\Users\tybet\OneDrive\Desktop\Year3_sem1\eng\eng\Engine\Events\MouseEventListener.cpp(94,44): warning C4244:  '=': conversion from 'T' to 'int', possible loss of data
+C:\Users\tybet\OneDrive\Desktop\Year3_sem1\eng\eng\Engine\Events\MouseEventListener.cpp(94,44): warning C4244:         with
+C:\Users\tybet\OneDrive\Desktop\Year3_sem1\eng\eng\Engine\Events\MouseEventListener.cpp(94,44): warning C4244:         [
+C:\Users\tybet\OneDrive\Desktop\Year3_sem1\eng\eng\Engine\Events\MouseEventListener.cpp(94,44): warning C4244:             T=float
+C:\Users\tybet\OneDrive\Desktop\Year3_sem1\eng\eng\Engine\Events\MouseEventListener.cpp(94,44): warning C4244:         ]
+  Model.cpp
+C:\Users\tybet\OneDrive\Desktop\Year3_sem1\eng\eng\Engine\Rendering\3D\LoadObjModel.cpp(195,20): warning C4018:  '<': signed/unsigned mismatch
+  SceneGraphs.cpp
+  Game1.cpp
+  GameScene.cpp
+  StartScene.cpp
+  MatLoader.cpp
+C:\Users\tybet\OneDrive\Desktop\Year3_sem1\eng\eng\Engine\Rendering\3D\Model.cpp(86,20): warning C4018:  '<': signed/unsigned mismatch
+  Generating Code...
+C:\Users\tybet\OneDrive\Desktop\Year3_sem1\eng\eng\MatLoader.cpp(49,59): warning C4129:  'T': unrecognized character escape sequence
+  eng.vcxproj -> C:\Users\tybet\OneDrive\Desktop\Year3_sem1\eng\Debug\eng.exe

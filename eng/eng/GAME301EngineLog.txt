@@ -1,0 +1,6 @@
+INFO: Creating StartScene in: StartScene.cpp on line: 14
+INFO: CORE ENGINE STARTED in: CoreEngine.cpp on line: 45
+INFO: Created GameScene in: GameScene.cpp on line: 22
+ERROR: faild to load texture Apple_Body in: textHandler.cpp on line: 23
+ERROR: faild to load texture Apple_Branch in: textHandler.cpp on line: 23
+ERROR: faild to load texture diceMap in: textHandler.cpp on line: 23
